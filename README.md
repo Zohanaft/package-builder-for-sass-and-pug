@@ -14,22 +14,22 @@
 любые страницы  | src/*.pug
 sass            | src/sass/main.sass
 
-полная карта:
+полная карта:<br>
    <br>./src/js
    <br>./src/sass/main.sass
    <br>./src/img
    <br>./src/fonts
    <br>.src/template(опционально, использую для модулей pug)
-   <br>./src/*.pug
+   <br>./src/*.pug<br>
 Остальное на свое усмотрение)
 
 # Команды/таски
-gulp[
-        build:[html|css|js|img|svg|fonts] |
-        watch |
-        webscerver |
-        clean
-        default    
+gulp[<br>
+        >> build:[html|css|js|img|svg|fonts] |<br>
+        >> watch |<br>
+        >> webscerver |<br>
+        >> clean<br>
+        >> default<br>    
     ]
 ***
 советую для старта юзать watch.
