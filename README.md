@@ -15,12 +15,12 @@
 sass            | src/sass/main.sass
 
 полная карта:
-    ./src/js
-    ./src/sass/main.sass
-    ./src/img
-    ./src/fonts
-    .src/template(опционально, использую для модулей pug)
-    ./src/*.pug
+   <br>./src/js
+   <br>./src/sass/main.sass
+   <br>./src/img
+   <br>./src/fonts
+   <br>.src/template(опционально, использую для модулей pug)
+   <br>./src/*.pug
 Остальное на свое усмотрение)
 
 # Команды/таски
